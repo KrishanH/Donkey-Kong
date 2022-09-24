@@ -1,12 +1,4 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Donkey Kong Retro
+PURPOSE OF PROJECT: To enchance abilities in java and Greenfoot IDE
+AUTHORS: Kris
+USER INSTRUCTIONS: Download all files and run in greenfoot, edit obj files to change
